@@ -43,3 +43,20 @@ a {
 #kep2 {
     border: 1px solid black;
 }
+
+.tablazat2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border: 0;
+    border-collapse: collapse;
+}
+
+.tablazat2 td{
+    padding: 6px;
+    margin: 6px solid black;
+}
+
+.tablazat2 td:first-child {
+    width: 240px;
+}
