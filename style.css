@@ -55,6 +55,7 @@ a {
 .tablazat2 td{
     padding: 6px;
     margin: 6px solid black;
+    text-align: center;
 }
 
 .tablazat2 td:first-child {
