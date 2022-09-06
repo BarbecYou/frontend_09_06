@@ -61,3 +61,8 @@ a {
 .tablazat2 td:first-child {
     width: 240px;
 }
+
+.tablazat2 h2 {
+    color: aliceblue;
+    background-color: crimson;
+}
